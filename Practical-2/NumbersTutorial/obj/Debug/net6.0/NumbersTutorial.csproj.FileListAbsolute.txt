@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\bin\Debug\net6.0\NumbersTutorial.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\bin\Debug\net6.0\NumbersTutorial.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\bin\Debug\net6.0\NumbersTutorial.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\bin\Debug\net6.0\NumbersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\bin\Debug\net6.0\ref\NumbersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\bin\Debug\net6.0\NumbersTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\ref\NumbersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-2\NumbersTutorial\obj\Debug\net6.0\NumbersTutorial.genruntimeconfig.cache
