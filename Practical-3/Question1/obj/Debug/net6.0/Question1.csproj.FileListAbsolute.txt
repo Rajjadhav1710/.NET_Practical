@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\bin\Debug\net6.0\Question1.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\bin\Debug\net6.0\Question1.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\bin\Debug\net6.0\Question1.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\bin\Debug\net6.0\Question1.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\bin\Debug\net6.0\ref\Question1.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\bin\Debug\net6.0\Question1.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\ref\Question1.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-3\Question1\obj\Debug\net6.0\Question1.genruntimeconfig.cache
