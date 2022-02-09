@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\bin\Debug\net6.0\IndexersTutorial.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\bin\Debug\net6.0\IndexersTutorial.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\bin\Debug\net6.0\IndexersTutorial.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\bin\Debug\net6.0\IndexersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\bin\Debug\net6.0\ref\IndexersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\bin\Debug\net6.0\IndexersTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\ref\IndexersTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\IndexersTutorial\obj\Debug\net6.0\IndexersTutorial.genruntimeconfig.cache

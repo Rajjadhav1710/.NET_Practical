@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\bin\Debug\net6.0\ref\SimpleClassExample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\ref\SimpleClassExample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.genruntimeconfig.cache

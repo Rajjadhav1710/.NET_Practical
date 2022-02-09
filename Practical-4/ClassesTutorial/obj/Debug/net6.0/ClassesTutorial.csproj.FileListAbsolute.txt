@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\bin\Debug\net6.0\ref\ClassesTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ref\ClassesTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-4\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.genruntimeconfig.cache
