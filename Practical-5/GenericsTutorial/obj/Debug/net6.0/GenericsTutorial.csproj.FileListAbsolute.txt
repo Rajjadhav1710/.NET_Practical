@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\bin\Debug\net6.0\GenericsTutorial.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\bin\Debug\net6.0\GenericsTutorial.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\bin\Debug\net6.0\GenericsTutorial.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\bin\Debug\net6.0\GenericsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\bin\Debug\net6.0\ref\GenericsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\bin\Debug\net6.0\GenericsTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\ref\GenericsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-5\GenericsTutorial\obj\Debug\net6.0\GenericsTutorial.genruntimeconfig.cache
