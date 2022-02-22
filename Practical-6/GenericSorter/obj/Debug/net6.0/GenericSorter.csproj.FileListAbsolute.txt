@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\bin\Debug\net6.0\GenericSorter.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\bin\Debug\net6.0\GenericSorter.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\bin\Debug\net6.0\GenericSorter.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\bin\Debug\net6.0\GenericSorter.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\bin\Debug\net6.0\ref\GenericSorter.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\bin\Debug\net6.0\GenericSorter.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\ref\GenericSorter.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\GenericSorter\obj\Debug\net6.0\GenericSorter.genruntimeconfig.cache

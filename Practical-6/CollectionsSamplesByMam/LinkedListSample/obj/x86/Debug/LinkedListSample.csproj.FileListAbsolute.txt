@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\LinkedListSample\bin\Debug\LinkedListSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\LinkedListSample\bin\Debug\LinkedListSample.pdb
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\LinkedListSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\LinkedListSample\bin\Debug\LinkedListSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\LinkedListSample\bin\Debug\LinkedListSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\LinkedListSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\LinkedListSample\obj\x86\Debug\LinkedListSample.pdb

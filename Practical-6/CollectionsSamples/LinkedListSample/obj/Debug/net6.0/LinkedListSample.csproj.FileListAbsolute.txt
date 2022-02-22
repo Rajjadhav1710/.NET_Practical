@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\bin\Debug\net6.0\ref\LinkedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\ref\LinkedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.genruntimeconfig.cache

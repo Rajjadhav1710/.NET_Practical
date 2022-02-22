@@ -1,0 +1,5 @@
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\bin\Release\BitArraySample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\bin\Release\BitArraySample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\obj\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\obj\Release\BitArraySample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\obj\Release\BitArraySample.pdb

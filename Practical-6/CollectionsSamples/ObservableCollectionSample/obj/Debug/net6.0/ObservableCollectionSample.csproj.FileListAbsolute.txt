@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache

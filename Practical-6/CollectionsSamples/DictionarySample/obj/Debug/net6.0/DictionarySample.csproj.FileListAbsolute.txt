@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache

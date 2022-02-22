@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\bin\Debug\net6.0\LookupSample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\bin\Debug\net6.0\LookupSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache

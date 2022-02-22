@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\bin\Debug\net6.0\SortedListSample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\bin\Debug\net6.0\SortedListSample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\bin\Debug\net6.0\SortedListSample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\bin\Debug\net6.0\SortedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\bin\Debug\net6.0\ref\SortedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\bin\Debug\net6.0\SortedListSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\ref\SortedListSample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\SortedListSample\obj\Debug\net6.0\SortedListSample.genruntimeconfig.cache

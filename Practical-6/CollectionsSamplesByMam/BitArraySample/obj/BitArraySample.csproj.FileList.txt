@@ -1,0 +1,5 @@
+bin\Debug\BitArraySample.exe
+bin\Debug\BitArraySample.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BitArraySample.exe
+obj\Debug\BitArraySample.pdb

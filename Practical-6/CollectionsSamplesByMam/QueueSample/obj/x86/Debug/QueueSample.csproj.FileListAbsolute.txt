@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\QueueSample\bin\Debug\QueueSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\QueueSample\bin\Debug\QueueSample.pdb
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\QueueSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\QueueSample\obj\x86\Debug\QueueSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\QueueSample\obj\x86\Debug\QueueSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\QueueSample\bin\Debug\QueueSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\QueueSample\bin\Debug\QueueSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\QueueSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\QueueSample\obj\x86\Debug\QueueSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\QueueSample\obj\x86\Debug\QueueSample.pdb

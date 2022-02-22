@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\StackSample\bin\Debug\StackSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\StackSample\bin\Debug\StackSample.pdb
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\StackSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\StackSample\obj\x86\Debug\StackSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\StackSample\obj\x86\Debug\StackSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\StackSample\bin\Debug\StackSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\StackSample\bin\Debug\StackSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\StackSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\StackSample\obj\x86\Debug\StackSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\StackSample\obj\x86\Debug\StackSample.pdb

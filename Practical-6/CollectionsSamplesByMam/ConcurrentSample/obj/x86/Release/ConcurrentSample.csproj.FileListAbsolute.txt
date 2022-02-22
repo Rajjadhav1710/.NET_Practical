@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\bin\Release\ConcurrentSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\bin\Release\ConcurrentSample.pdb
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\obj\x86\Release\ConcurrentSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\obj\x86\Release\ConcurrentSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\obj\x86\Release\ConcurrentSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\obj\x86\Release\ConcurrentSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\bin\Release\ConcurrentSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\bin\Release\ConcurrentSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ConcurrentSample\obj\x86\Release\ResolveAssemblyReference.cache

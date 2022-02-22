@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\DictionarySample\bin\Release\DictionarySample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\DictionarySample\bin\Release\DictionarySample.pdb
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\DictionarySample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\DictionarySample\obj\x86\Release\DictionarySample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\DictionarySample\obj\x86\Release\DictionarySample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\DictionarySample\bin\Release\DictionarySample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\DictionarySample\bin\Release\DictionarySample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\DictionarySample\obj\x86\Release\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\DictionarySample\obj\x86\Release\DictionarySample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\DictionarySample\obj\x86\Release\DictionarySample.pdb

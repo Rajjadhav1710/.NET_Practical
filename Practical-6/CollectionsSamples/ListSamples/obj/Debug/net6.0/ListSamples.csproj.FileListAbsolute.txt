@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\bin\Debug\net6.0\ListSamples.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\bin\Debug\net6.0\ListSamples.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\bin\Debug\net6.0\ListSamples.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\bin\Debug\net6.0\ListSamples.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\bin\Debug\net6.0\ref\ListSamples.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\bin\Debug\net6.0\ListSamples.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ref\ListSamples.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\ListSamples\obj\Debug\net6.0\ListSamples.genruntimeconfig.cache

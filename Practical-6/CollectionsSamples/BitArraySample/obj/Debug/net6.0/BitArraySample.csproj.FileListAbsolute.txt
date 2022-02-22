@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\bin\Debug\net6.0\BitArraySample.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\bin\Debug\net6.0\BitArraySample.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\bin\Debug\net6.0\BitArraySample.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\bin\Debug\net6.0\BitArraySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\bin\Debug\net6.0\ref\BitArraySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\bin\Debug\net6.0\BitArraySample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\ref\BitArraySample.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\CollectionsSamples\BitArraySample\obj\Debug\net6.0\BitArraySample.genruntimeconfig.cache

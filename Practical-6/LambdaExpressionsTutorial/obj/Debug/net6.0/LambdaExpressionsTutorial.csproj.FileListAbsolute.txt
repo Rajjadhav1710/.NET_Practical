@@ -1,0 +1,15 @@
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\bin\Debug\net6.0\LambdaExpressionsTutorial.exe
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\bin\Debug\net6.0\LambdaExpressionsTutorial.deps.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\bin\Debug\net6.0\LambdaExpressionsTutorial.runtimeconfig.json
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\bin\Debug\net6.0\LambdaExpressionsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\bin\Debug\net6.0\ref\LambdaExpressionsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\bin\Debug\net6.0\LambdaExpressionsTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.csproj.AssemblyReference.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.AssemblyInfoInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.AssemblyInfo.cs
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\ref\LambdaExpressionsTutorial.dll
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.pdb
+C:\Users\Raj\Desktop\MyFiles\.NET_Practical\Practical-6\LambdaExpressionsTutorial\obj\Debug\net6.0\LambdaExpressionsTutorial.genruntimeconfig.cache

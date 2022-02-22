@@ -1,0 +1,10 @@
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\bin\Debug\ObservableCollectionSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\bin\Debug\ObservableCollectionSample.pdb
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\obj\x86\Debug\ObservableCollectionSample.exe
+C:\Books\Pro C# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\obj\x86\Debug\ObservableCollectionSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\bin\Debug\ObservableCollectionSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\bin\Debug\ObservableCollectionSample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\obj\x86\Debug\ObservableCollectionSample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\ObservableCollectionSample\obj\x86\Debug\ObservableCollectionSample.pdb
