@@ -1,0 +1,52 @@
+@model IEnumerable<FirstMvcApp.Models.Subject>
+
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-4">
+            <h2 class="text-primary">Subject List</h2>
+        </div>
+        <div class="col-4">
+        <form method="get" asp-controller="Subject" asp-action="Index">
+            <input type="text" name="searchtext"/>
+            <input type="submit"  value="search"/>
+        </form>
+        </div>
+        
+        <div class="col-4">
+            <a asp-controller="Subject" asp-action="Create"  class="btn btn-primary">Create New Subject</a>
+        </div>
+    </div>
+    <br />
+    @if(Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Subject Name</th>
+                    <th>Syllabus</th>
+                    <th>Credits</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj1 in Model)
+                {
+                    <tr>
+                        <td width="50%">@obj1.Subject_Name</td>
+                        <td>@obj1.syllabus</td>
+                        <td>@obj1.credits</td>
+                        <td>
+                           <a asp-controller="Subject" asp-action="Edit" asp-route-subjectid="@obj1.ID" class="btn btn-primary">Edit</a>
+                            <a asp-controller="Subject" asp-action="Delete" asp-route-subjectid="@obj1.ID" class="btn btn-primary">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p> No subject details.</p>
+    }
+</div>
+
